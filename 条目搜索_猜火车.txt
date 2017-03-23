@@ -1,0 +1,153 @@
+{
+"count": 20, 
+"start": 0, 
+"total": 2, 
+"subjects": 
+	[
+		{
+			"rating": {"max": 10, "average": 8.5, "stars": "45", "min": 0}, 
+			"genres": ["\u72af\u7f6a", "\u5267\u60c5"], 
+			"title": "\u731c\u706b\u8f66", 
+			"casts": [
+			  			{
+			  				"alt": "https:\/\/movie.douban.com\/celebrity\/1012532\/", 
+							"avatars": {
+										"small": "http://img6.douban.com\/img\/celebrity\/small\/3195.jpg", 
+					    				"large": "http://img6.douban.com\/img\/celebrity\/large\/3195.jpg", 
+			            				"medium": "http://img6.douban.com\/img\/celebrity\/medium\/3195.jpg"
+										}, 
+							"name": "\u4f0a\u4e07\u00b7\u9ea6\u514b\u683c\u96f7\u683c", 
+							"id": "1012532"
+			  			 }, 
+	
+						 {
+						 	"alt": "https:\/\/movie.douban.com\/celebrity\/1004679\/", 
+							"avatars": {
+										"small": "http://img6.douban.com\/img\/celebrity\/small\/1374748001.34.jpg", 
+										"large": "http://img6.douban.com\/img\/celebrity\/large\/1374748001.34.jpg", 
+										"medium": "http://img6.douban.com\/img\/celebrity\/medium\/1374748001.34.jpg"
+										}, 
+							"name": "\u827e\u6587\u00b7\u5e03\u83b1\u7eb3", 
+							"id": "1004679"
+						  }, 
+			
+						  {
+						  	"alt": "https:\/\/movie.douban.com\/celebrity\/1041125\/", 
+							"avatars": 
+										{
+										"small": "http://img6.douban.com\/img\/celebrity\/small\/48978.jpg", 
+										"large": "http://img6.douban.com\/img\/celebrity\/large\/48978.jpg", 
+										"medium": "http://img6.douban.com\/img\/celebrity\/medium\/48978.jpg"
+										}, 
+							"name": "\u7ea6\u7ff0\u5c3c\u00b7\u674e\u00b7\u7c73\u52d2", 
+							"id": "1041125"
+							}
+						],
+						 
+			"collect_count": 302411, 
+			"original_title": "Trainspotting", 
+			"subtype": "movie", 
+	
+			"directors": 
+						[
+							{
+								"alt": "https:\/\/movie.douban.com\/celebrity\/1054404\/", 
+								"avatars":
+									 		{
+											"small": "http://img6.douban.com\/img\/celebrity\/small\/571.jpg", 
+											"large": "http://img6.douban.com\/img\/celebrity\/large\/571.jpg", 
+											"medium": "http://img6.douban.com\/img\/celebrity\/medium\/571.jpg"
+											}, 
+								"name": "\u4e39\u5c3c\u00b7\u535a\u4f0a\u5c14", 
+								"id": "1054404"
+							}
+						], 
+			"year": "1996", 
+			"images": 
+					{
+					"small": "http://img6.douban.com\/view\/movie_poster_cover\/ipst\/public\/p513567548.webp", 
+					"large": "http://img6.douban.com\/view\/movie_poster_cover\/lpst\/public\/p513567548.webp", 
+					"medium": "http://img6.douban.com\/view\/movie_poster_cover\/spst\/public\/p513567548.webp"
+					}, 
+			"alt": "https:\/\/movie.douban.com\/subject\/1292528\/", 
+			"id": "1292528"
+		}, 
+	
+	
+	
+	
+	{
+		"rating": 
+					{
+						"max": 10, 
+						"average": 8.5, 
+						"stars": "45", 
+						"min": 0
+					}, 
+		"genres": ["\u5267\u60c5"], 
+		"title": "\u731c\u706b\u8f662", 
+		"casts": 
+				[
+					{
+						"alt": "https:\/\/movie.douban.com\/celebrity\/1012532\/", 
+						"avatars": {
+									"small": "http://img6.douban.com\/img\/celebrity\/small\/3195.jpg", 
+									"large": "http://img6.douban.com\/img\/celebrity\/large\/3195.jpg", 
+									"medium": "http://img6.douban.com\/img\/celebrity\/medium\/3195.jpg"
+									}, 
+						"name": "\u4f0a\u4e07\u00b7\u9ea6\u514b\u683c\u96f7\u683c", 
+						"id": "1012532"
+					}, 
+					
+					{
+						"alt": "https:\/\/movie.douban.com\/celebrity\/1041125\/", 
+						"avatars": 
+									{
+									"small": "http://img6.douban.com\/img\/celebrity\/small\/48978.jpg", 
+									"large": "http://img6.douban.com\/img\/celebrity\/large\/48978.jpg", 
+									"medium": "http://img6.douban.com\/img\/celebrity\/medium\/48978.jpg"}, 
+						"name": "\u7ea6\u7ff0\u5c3c\u00b7\u674e\u00b7\u7c73\u52d2", 
+						"id": "1041125"
+					}, 
+					
+					{
+						"alt": "https:\/\/movie.douban.com\/celebrity\/1000054\/", 
+						"avatars": 
+									{
+									"small": "http://img6.douban.com\/img\/celebrity\/small\/1456715953.86.jpg", 
+									"large": "http://img6.douban.com\/img\/celebrity\/large\/1456715953.86.jpg", 
+									"medium": "http://img6.douban.com\/img\/celebrity\/medium\/1456715953.86.jpg"
+									}, 
+						"name": "\u7f57\u4f2f\u7279\u00b7\u5361\u83b1\u5c14", 
+						"id": "1000054"
+					}
+				],
+		"collect_count": 1732, 
+		"original_title": "T2 Trainspotting", 
+		"subtype": "movie", 
+		"directors": 
+					[
+						{
+							"alt": "https:\/\/movie.douban.com\/celebrity\/1054404\/", 
+							"avatars": 
+										{
+											"small": "http://img6.douban.com\/img\/celebrity\/small\/571.jpg", 
+											"large": "http://img6.douban.com\/img\/celebrity\/large\/571.jpg", 
+											"medium": "http://img6.douban.com\/img\/celebrity\/medium\/571.jpg"
+										}, 
+							"name": "\u4e39\u5c3c\u00b7\u535a\u4f0a\u5c14", 
+							"id": "1054404"
+						}
+					],
+		"year": "2017", 
+		"images": 
+					{
+						"small": "http://img6.douban.com\/view\/movie_poster_cover\/ipst\/public\/p2403165796.webp", 
+						"large": "http://img6.douban.com\/view\/movie_poster_cover\/lpst\/public\/p2403165796.webp", 
+						"medium": "http://img6.douban.com\/view\/movie_poster_cover\/spst\/public\/p2403165796.webp"
+					}, 
+		"alt": "https:\/\/movie.douban.com\/subject\/22263645\/", 
+		"id": "22263645"
+	}
+], 
+"title": "\u641c\u7d22 \"{\u731c\u706b\u8f66}\" \u7684\u7ed3\u679c"}
