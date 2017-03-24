@@ -5,28 +5,24 @@
 </head>
 <body>
 
-<!-- 	<form method="get" action="{{ url_for('search') }}">
-		<input type="text" name="rating">
-	</form> -->
+	<form method="get" action="/search">
+		<input type="text" name="movie_name">
+	</form>
 
 <!-- 	<div>image 海报</div> -->
 
 	<div>
 		<img src="http://omjtq6wcu.bkt.clouddn.com/douban_logo.png" style="vertical-align:middle">
 	</div>
-
 	<div>
-		<p>{{rating}}</p>
+		<p>{{ rating }}</p>
 	</div>
-		
-
 	<div>
-		<p>{{ratings_count}}</p>
+		<p>ratings_count</p>
 	</div>
-
-<!-- 	<div>
-		<p>{{q}}</p>
-	</div> -->
+	<div>
+		<p>{{ movie_name }}</p>
+	</div>
 
 
 </body>

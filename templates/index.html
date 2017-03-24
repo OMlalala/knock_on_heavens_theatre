@@ -7,8 +7,8 @@
 		<div>
 			<img src="http://omjtq6wcu.bkt.clouddn.com/film_logo.png" style="vertical-align:middle">
 		</div>
-		<form method="POST" action="{{ url_for('search') }}">
-			<input name="rating">
+		<form method="GET" action="/search">
+			<input type=text name="movie_name">
 		</form>
 	</body>
 	</html>
